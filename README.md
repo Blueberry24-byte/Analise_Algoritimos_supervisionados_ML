@@ -24,7 +24,7 @@ O Naive Bayes assume independência estrita entre os atributos, o que limitou se
 ## Como Executar
 
 1. Clone este repositório:
-git clone https://github.com/SeuUsuario/nome-do-repositorio.git 
+git clone [https://github.com/ArthurStuker05/Analise_Algoritimos_supervisionados_ML.git](https://github.com/ArthurStuker05/Analise_Algoritimos_supervisionados_ML.git)ker05/Analise_Algoritimos_supervisionados_ML.git)
 
 2. Abra o arquivo .ipynb na sua IDE favorita (VS Code, Jupyter) ou diretamente no Google Colab.
 3. O dataset é importado nativamente pela biblioteca scikit-learn, portanto não é necessário baixar arquivos CSV externos. Basta executar as células sequencialmente.
